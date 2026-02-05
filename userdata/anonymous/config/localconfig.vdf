@@ -1,0 +1,83 @@
+"UserLocalConfigStore"
+{
+	"AppInfoChangeNumber"		"33673380"
+	"UserAppConfig"
+	{
+		"70"		"0055736572436f6e6669670001426574614b6579007075626c6963000808"
+		"10"		"0055736572436f6e6669670001426574614b6579007075626c6963000808"
+	}
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"90"
+					{
+						"LastPlayed"		"1770318307"
+					}
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"11"
+		{
+			"CDN"
+			{
+				"edge.steam-dns.top.comcast.net"
+				{
+					"token"		""
+					"Expires"		"1770329112"
+				}
+			}
+		}
+		"1"
+		{
+			"CDN"
+			{
+				"edge.steam-dns.top.comcast.net"
+				{
+					"token"		""
+					"Expires"		"1770329119"
+				}
+			}
+		}
+		"71"
+		{
+			"CDN"
+			{
+				"edge.steam-dns.top.comcast.net"
+				{
+					"token"		""
+					"Expires"		"1770329137"
+				}
+			}
+		}
+		"5"
+		{
+			"CDN"
+			{
+				"edge.steam-dns.top.comcast.net"
+				{
+					"token"		""
+					"Expires"		"1770329111"
+				}
+			}
+		}
+		"1004"
+		{
+			"CDN"
+			{
+				"edge.steam-dns.top.comcast.net"
+				{
+					"token"		""
+					"Expires"		"1770329138"
+				}
+			}
+		}
+	}
+}

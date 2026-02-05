@@ -1,0 +1,43 @@
+L 02/05/2026 - 14:35:21: Error:
+L 02/05/2026 - 14:35:21: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 02/05/2026 - 14:35:21: GameConfig CRC computed engine=E739418A (C:\hlds\swds.dll)
+L 02/05/2026 - 14:35:21: GameConfig CRC computed server=2B083F7B (C:\hlds\cstrike\dlls\mp.dll)
+L 02/05/2026 - 14:35:21: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got E739418A
+L 02/05/2026 - 14:35:21: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got E739418A
+L 02/05/2026 - 14:35:21: -------- Mapchange to de_dust2 --------
+L 02/05/2026 - 14:38:51: Error:
+L 02/05/2026 - 14:38:51: [AMXX] Couldn't find "AMXX_Query" (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 02/05/2026 - 14:38:51: GameConfig CRC computed engine=E739418A (C:\hlds\swds.dll)
+L 02/05/2026 - 14:38:51: GameConfig CRC computed server=2B083F7B (C:\hlds\cstrike\dlls\mp.dll)
+L 02/05/2026 - 14:38:51: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got E739418A
+L 02/05/2026 - 14:38:51: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got E739418A
+L 02/05/2026 - 14:38:51: -------- Mapchange to de_dust2 --------
+L 02/05/2026 - 14:41:25: Error:
+L 02/05/2026 - 14:41:25: [AMXX] Couldn't find "AMXX_Query" (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 02/05/2026 - 14:41:25: GameConfig CRC computed engine=E739418A (C:\hlds\swds.dll)
+L 02/05/2026 - 14:41:25: GameConfig CRC computed server=2B083F7B (C:\hlds\cstrike\dlls\mp.dll)
+L 02/05/2026 - 14:41:25: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got E739418A
+L 02/05/2026 - 14:41:25: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got E739418A
+L 02/05/2026 - 14:41:25: -------- Mapchange to de_dust2 --------
+L 02/05/2026 - 14:43:45: Error:
+L 02/05/2026 - 14:43:45: [AMXX] Couldn't find "AMXX_Query" (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 02/05/2026 - 14:43:45: GameConfig CRC computed engine=E739418A (C:\hlds\swds.dll)
+L 02/05/2026 - 14:43:45: GameConfig CRC computed server=2B083F7B (C:\hlds\cstrike\dlls\mp.dll)
+L 02/05/2026 - 14:43:45: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got E739418A
+L 02/05/2026 - 14:43:45: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got E739418A
+L 02/05/2026 - 14:43:45: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/05/2026 - 14:43:45: Error:
+L 02/05/2026 - 14:43:45: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\cstrike_amxx.dll")
+L 02/05/2026 - 14:43:45: Error:
+L 02/05/2026 - 14:43:45: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\csx_amxx.dll")
+L 02/05/2026 - 14:43:46: -------- Mapchange to de_dust2 --------
+L 02/05/2026 - 14:45:55: GameConfig CRC computed engine=E739418A (C:\hlds\swds.dll)
+L 02/05/2026 - 14:45:55: GameConfig CRC computed server=2B083F7B (C:\hlds\cstrike\dlls\mp.dll)
+L 02/05/2026 - 14:45:55: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got E739418A
+L 02/05/2026 - 14:45:55: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got E739418A
+L 02/05/2026 - 14:45:55: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/05/2026 - 14:45:55: Error:
+L 02/05/2026 - 14:45:55: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\cstrike_amxx.dll")
+L 02/05/2026 - 14:45:55: Error:
+L 02/05/2026 - 14:45:55: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\csx_amxx.dll")
+L 02/05/2026 - 14:45:55: -------- Mapchange to de_dust2 --------

@@ -1,0 +1,117 @@
+
+
+[2026-02-05 14:04:30] Client version: 1769026246
+[2026-02-05 14:04:30] Load failed: C:\hlds\steamapps\libraryfolders.vdf.
+[2026-02-05 14:04:30] Load failed: C:\hlds\config\libraryfolders.vdf.
+[2026-02-05 14:04:30] Steam library folders configuration will be reset.
+[2026-02-05 14:04:30] No install folder configuration files found.
+[2026-02-05 14:04:30] Loaded 0 apps from install folder "C:\hlds\steamapps\appmanifest_*.acf".
+[2026-02-05 14:04:30] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-02-05 14:04:35] Loaded 0 apps from install folder "c:\hlds\steamapps\appmanifest_*.acf".
+[2026-02-05 14:04:35] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2026-02-05 14:04:52] Client version: 1769026246
+[2026-02-05 14:04:52] Loaded 0 apps from install folder "c:\hlds\steamapps\appmanifest_*.acf".
+[2026-02-05 14:04:52] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-02-05 14:05:05] AppID 90 state changed : Update Required,
+[2026-02-05 14:05:05] AppID 70 state changed : Update Required,Shared Only,
+[2026-02-05 14:05:05] Dependency added: parent 70, child 90, depot 1
+[2026-02-05 14:05:05] AppID 10 state changed : Update Required,Shared Only,
+[2026-02-05 14:05:05] Dependency added: parent 10, child 90, depot 11
+[2026-02-05 14:05:05] Dependency added: parent 70, child 90, depot 71
+[2026-02-05 14:05:05] AppID 70 beta changed: public
+[2026-02-05 14:05:05] AppID 10 beta changed: public
+[2026-02-05 14:05:05] AppID 90 scheduler update : Priority First, not played for 4294967294 seconds, update disabled for 0 seconds
+[2026-02-05 14:05:05] AppID 90 state changed : Update Required,Update Queued,
+[2026-02-05 14:05:05] AppID 90 scheduler update : Priority First, not played for 4294967294 seconds, update disabled for 0 seconds
+[2026-02-05 14:05:05] AppID 90 state changed : Update Required,Update Queued,Update Running,
+[2026-02-05 14:05:05] AppID 70 state changed : Update Required,Shared Only,Update Running,
+[2026-02-05 14:05:05] AppID 10 state changed : Update Required,Shared Only,Update Running,
+[2026-02-05 14:05:05] AppID 90 App update changed : Running Update,
+[2026-02-05 14:05:05] AppID 90 App update changed : Running Update,Reconfiguring,
+[2026-02-05 14:05:06] HTTP/2 available
+[2026-02-05 14:05:06] Created dual-stack http client
+[2026-02-05 14:05:06] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 83 / Launcher 3)
+[2026-02-05 14:05:06] Moving to source priority class '2'
+[2026-02-05 14:05:06] Created download interface of type 'CDN' (2) to host edge.steam-dns.top.comcast.net (edge.steam-dns.top.comcast.net)
+[2026-02-05 14:05:06] Created download interface of type 'CDN' (2) to host edge.steam-dns.top.comcast.net (edge.steam-dns.top.comcast.net)
+[2026-02-05 14:05:06] Created download interface of type 'CDN' (2) to host edge.steam-dns.top.comcast.net (edge.steam-dns.top.comcast.net)
+[2026-02-05 14:05:06] HTTP (CDN,64) - edge.steam-dns.top.comcast.net (0.0.0.0:0 / 0.0.0.0:0, host: edge.steam-dns.top.comcast.net): AuthenticateDepotID (11) - Success!
+[2026-02-05 14:05:06] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): edge.steam-dns.top.comcast.net/depot/11/manifest/3018093494972814332/5/11132020100920948781 - received 200 (OK) HTTP response
+[2026-02-05 14:05:07] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): AuthenticateDepotID (1) - Success!
+[2026-02-05 14:05:07] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): edge.steam-dns.top.comcast.net/depot/1/manifest/2667117727132184734/5/10709169420762506578 - received 200 (OK) HTTP response
+[2026-02-05 14:05:07] HTTP (CDN,64) - edge.steam-dns.top.comcast.net (0.0.0.0:0 / 0.0.0.0:0, host: edge.steam-dns.top.comcast.net): AuthenticateDepotID (71) - Success!
+[2026-02-05 14:05:07] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): edge.steam-dns.top.comcast.net/depot/71/manifest/3982364535202188842/5/11743259404030832760 - received 200 (OK) HTTP response
+[2026-02-05 14:05:08] HTTP (CDN,64) - edge.steam-dns.top.comcast.net (0.0.0.0:0 / 0.0.0.0:0, host: edge.steam-dns.top.comcast.net): AuthenticateDepotID (5) - Success!
+[2026-02-05 14:05:08] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): edge.steam-dns.top.comcast.net/depot/5/manifest/2602921513184876182/5/4779322459318926070 - received 200 (OK) HTTP response
+[2026-02-05 14:05:09] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): AuthenticateDepotID (1004) - Success!
+[2026-02-05 14:05:09] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): edge.steam-dns.top.comcast.net/depot/1004/manifest/5612541580377302256/5/422660934875326205 - received 200 (OK) HTTP response
+[2026-02-05 14:05:09] AppID 90 App update changed : Running Update,
+[2026-02-05 14:05:09] AppID 90 App update changed : Running Update,Verifying Installed,
+[2026-02-05 14:05:09] AppID 90 App update changed : Running Update,
+[2026-02-05 14:05:09] AppID 90 App update changed : Running Update,Preallocating,
+[2026-02-05 14:05:09] AppID 10 preallocated 141 files (227 MB) 
+[2026-02-05 14:05:09] AppID 70 preallocated 238 files (373 MB) 
+[2026-02-05 14:05:09] AppID 90 preallocated 19 files (74 MB) 
+[2026-02-05 14:05:09] AppID 90 App update changed : Running Update,
+[2026-02-05 14:05:09] AppID 10 update started : download 0/149760208, store 0/0, reuse 0/0, delta 0/0, stage 0/292340389 
+[2026-02-05 14:05:09] AppID 10 state changed : Update Required,Shared Only,Update Running,Update Started,
+[2026-02-05 14:05:09] AppID 70 update started : download 0/268829392, store 0/0, reuse 0/0, delta 0/0, stage 0/529827940 
+[2026-02-05 14:05:09] AppID 70 state changed : Update Required,Shared Only,Update Running,Update Started,
+[2026-02-05 14:05:09] AppID 90 update started : download 0/28297360, store 0/0, reuse 0/0, delta 0/0, stage 0/80821717 
+[2026-02-05 14:05:09] AppID 90 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-02-05 14:05:09] AppID 90 App update changed : Running Update,Downloading,Staging,
+[2026-02-05 14:05:09] Downloading 1249 chunks for depot 11 (3018093494972814332)
+[2026-02-05 14:05:10] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): AuthenticateDepotID (11) - Success!
+[2026-02-05 14:05:10] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): AuthenticateDepotID (11) - Success!
+[2026-02-05 14:05:16] AppID 90 App update changed : Running Update,
+[2026-02-05 14:05:16] AppID 90 App update changed : Running Update,Downloading,Staging,
+[2026-02-05 14:05:16] Downloading 4341 chunks for depot 1 (2667117727132184734)
+[2026-02-05 14:05:16] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): AuthenticateDepotID (1) - Success!
+[2026-02-05 14:05:16] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): AuthenticateDepotID (1) - Success!
+[2026-02-05 14:05:18] Increasing target number of download connections to 4 (rate was 0.000, now 144.070)
+[2026-02-05 14:05:18] Created download interface of type 'SteamCache' (7) to host cache20-iad1.steamcontent.com (cache20-iad1.steamcontent.com)
+[2026-02-05 14:05:19] HTTPS (SteamCache,503) - cache20-iad1.steamcontent.com ([2602:801:f002:102::a2fe:c02b]:443 / [2602:801:f002:102::a2fe:c02b]:443, host: cache20-iad1.steamcontent.com): Negotiated HTTP/2
+[2026-02-05 14:05:34] Downloading 21 chunks for depot 71 (3982364535202188842)
+[2026-02-05 14:05:34] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): AuthenticateDepotID (71) - Success!
+[2026-02-05 14:05:34] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::10]:443 / [2001:558:fe23:22::10]:443, host: edge.steam-dns.top.comcast.net): AuthenticateDepotID (71) - Success!
+[2026-02-05 14:05:35] AppID 90 App update changed : Running Update,
+[2026-02-05 14:05:35] AppID 90 App update changed : Running Update,Downloading,Staging,
+[2026-02-05 14:05:35] Downloading 143 chunks for depot 5 (2602921513184876182)
+[2026-02-05 14:05:35] Downloading 66 chunks for depot 1004 (5612541580377302256)
+[2026-02-05 14:05:35] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::1]:443 / [2001:558:fe23:22::1]:443, host: edge.steam-dns.top.comcast.net): AuthenticateDepotID (1004) - Success!
+[2026-02-05 14:05:36] AppID 90 App update changed : Running Update,
+[2026-02-05 14:05:36] AppID 90 App update changed : Running Update,Verifying Staged,
+[2026-02-05 14:05:37] Verified 278 MB in 'C:\hlds', clean bytes tally is now 278 MB
+[2026-02-05 14:05:37] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-02-05 14:05:39] Verified 505 MB in 'C:\hlds', clean bytes tally is now 784 MB
+[2026-02-05 14:05:39] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-02-05 14:05:40] Verified 77 MB in 'C:\hlds', clean bytes tally is now 861 MB
+[2026-02-05 14:05:40] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-02-05 14:05:40] AppID 90 App update changed : Running Update,
+[2026-02-05 14:05:40] AppID 90 App update changed : Running Update,Committing,
+[2026-02-05 14:05:40] AppID 10 starting commit from "c:\hlds\steamapps\downloading\10" to "c:\hlds" : 1197 updated, 0 moved, 0 deleted files
+[2026-02-05 14:05:40] AppID 10 state changed : Fully Installed,Shared Only,Update Running,
+[2026-02-05 14:05:40] AppID 10 finished update, 1 mounted depots (BuildID 12934623) : 11 (3018093494972814332),
+[2026-02-05 14:05:40] AppID 70 starting commit from "c:\hlds\steamapps\downloading\70" to "c:\hlds" : 4329 updated, 0 moved, 0 deleted files
+[2026-02-05 14:05:42] AppID 70 state changed : Fully Installed,Shared Only,Update Running,
+[2026-02-05 14:05:42] AppID 70 finished update, 2 mounted depots (BuildID 15961492) : 1 (2667117727132184734),71 (3982364535202188842),
+[2026-02-05 14:05:42] AppID 90 starting commit from "c:\hlds\steamapps\downloading\90" to "c:\hlds" : 148 updated, 0 moved, 0 deleted files
+[2026-02-05 14:05:42] AppID 90 state changed : Fully Installed,Update Queued,Update Running,
+[2026-02-05 14:05:42] AppID 90 finished update, 2 mounted depots (BuildID 15961496) : 5 (2602921513184876182),1004 (5612541580377302256),
+[2026-02-05 14:05:42] AppID 90 App update changed : Running Update,
+[2026-02-05 14:05:42] AppID 90 App update changed : None
+[2026-02-05 14:05:42] AppID 10 state changed : Fully Installed,Shared Only,
+[2026-02-05 14:05:42] AppID 70 state changed : Fully Installed,Shared Only,
+[2026-02-05 14:05:42] AppID 90 state changed : Fully Installed,Update Queued,
+[2026-02-05 14:05:42] AppID 90 state changed : Fully Installed,
+[2026-02-05 14:05:42] AppID 90 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-02-05 14:06:20] Current download rate: 0.000 Mbps
+[2026-02-05 14:06:35] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::1]:443 / [2001:558:fe23:22::1]:443, host: edge.steam-dns.top.comcast.net): Closing connection
+[2026-02-05 14:06:36] HTTP/2 (SteamCache,503) - cache20-iad1.steamcontent.com ([2602:801:f002:102::a2fe:c02b]:443 / [2602:801:f002:102::a2fe:c02b]:443, host: cache20-iad1.steamcontent.com): Closing connection
+[2026-02-05 14:06:37] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::1]:443 / [2001:558:fe23:22::1]:443, host: edge.steam-dns.top.comcast.net): Closing connection
+[2026-02-05 14:06:37] HTTPS (CDN,64) - edge.steam-dns.top.comcast.net ([2001:558:fe23:22::1]:443 / [2001:558:fe23:22::1]:443, host: edge.steam-dns.top.comcast.net): Closing connection
+[2026-02-05 14:10:36] stats: (CDN, 64) edge.steam-dns.top.comcast.net: 421786215 Bytes, 26 sec (127.69 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes)
+[2026-02-05 14:10:36] stats: (Invalid, 0) : 447650071 Bytes, 26 sec (135.52 Mbps). 695 Hits / 31 Misses (96 %, 97 % bytes)
+[2026-02-05 14:10:36] stats: (SteamCache, 503) cache20-iad1.steamcontent.com: 25863856 Bytes, 2 sec (90.30 Mbps). 695 Hits / 31 Misses (96 %, 97 % bytes)

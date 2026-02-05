@@ -1,0 +1,38 @@
+
+
+[2026-02-05 14:04:24] Client version: 1769026246
+[2026-02-05 14:04:24] Failed to read store 'install' from 'C:\hlds\config\config.vdf.tmp'
+[2026-02-05 14:04:24] Failed to read store 'install' from 'C:\hlds\config\config.vdf.tmp'
+[2026-02-05 14:04:24] Failed to read store 'install' from 'C:\hlds\config\config.vdf.tmp'
+[2026-02-05 14:04:24] Flushed store 'install' to 'C:\hlds\config\config.vdf'
+[2026-02-05 14:04:27] Loaded store 'install' from 'C:\hlds\config\config.vdf' successfully
+[2026-02-05 14:04:30] Flushed store 'install' to 'C:\hlds\config\config.vdf'
+[2026-02-05 14:04:30] Failed to read store 'userlocal' from 'C:\hlds\userdata\anonymous\config\localconfig.vdf.tmp'
+[2026-02-05 14:04:30] Flushed store 'install' to 'C:\hlds\config\config.vdf'
+[2026-02-05 14:04:31] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'
+
+
+[2026-02-05 14:04:42] Client version: 1769026246
+[2026-02-05 14:04:42] Loaded store 'install' from 'C:\hlds\config\config.vdf' successfully
+[2026-02-05 14:04:42] Loaded store 'install' from 'C:\hlds\config\config.vdf' successfully
+[2026-02-05 14:04:42] Loaded store 'install' from 'C:\hlds\config\config.vdf' successfully
+[2026-02-05 14:04:51] Loaded store 'install' from 'C:\hlds\config\config.vdf' successfully
+[2026-02-05 14:04:52] Loaded store 'userlocal' from 'C:\hlds\userdata\anonymous\config\localconfig.vdf' successfully
+[2026-02-05 14:04:52] Flushed store 'install' to 'C:\hlds\config\config.vdf'
+[2026-02-05 14:04:53] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'
+[2026-02-05 14:05:05] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'
+[2026-02-05 14:05:06] Flushed store 'install' to 'C:\hlds\config\config.vdf'
+[2026-02-05 14:05:06] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'
+[2026-02-05 14:05:07] Flushed store 'install' to 'C:\hlds\config\config.vdf'
+[2026-02-05 14:05:07] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'
+[2026-02-05 14:05:08] Flushed store 'install' to 'C:\hlds\config\config.vdf'
+[2026-02-05 14:05:09] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'
+[2026-02-05 14:05:10] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'
+[2026-02-05 14:05:17] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'
+[2026-02-05 14:05:35] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'
+[2026-02-05 14:05:36] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'
+[2026-02-05 14:05:36] Loaded store 'install' from 'C:\hlds\config\config.vdf' successfully
+[2026-02-05 14:05:37] Flushed store 'install' to 'C:\hlds\config\config.vdf'
+[2026-02-05 14:19:04] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'
+[2026-02-05 14:35:07] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'
+[2026-02-05 14:51:13] Flushed store 'userlocal' to 'C:\hlds\userdata\anonymous\config\localconfig.vdf'

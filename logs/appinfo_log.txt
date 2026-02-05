@@ -1,0 +1,58 @@
+
+
+[2026-02-05 14:04:24] Client version: 1769026246
+[2026-02-05 14:04:24] ThreadedReadFromDisk: loading appinfo cache from: C:\hlds/appcache/appinfo.vdf
+[2026-02-05 14:04:24] ThreadedReadFromDisk: failed to open file: C:\hlds/appcache/appinfo.vdf
+[2026-02-05 14:04:24] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+[2026-02-05 14:04:30] RequestAppInfoUpdate: AppIDs 7
+[2026-02-05 14:04:30] Change number 0->33672370, apps: 0/0, packages: 0/0
+[2026-02-05 14:04:30] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-02-05 14:04:30] Downloaded 1 apps via HTTP, 15 KB (3 KB compressed)
+[2026-02-05 14:04:30] Requesting 0 apps, 1 packages (full data, 1024 prev attempts, expected 17 KB)
+[2026-02-05 14:04:31] UpdatesJob: finished OK, apps updated 1 (15 KB), packages updated 1 (17 KB)
+[2026-02-05 14:04:31] Requesting 736 apps, 0 packages (meta data, 1024 prev attempts, expected 34 KB)
+[2026-02-05 14:04:32] Requested 92 app access tokens, 24 received, 68 denied
+[2026-02-05 14:04:32] Updated SHAs with 24 new access tokens
+[2026-02-05 14:04:33] Downloaded 169 apps via HTTP, 2229 KB (533 KB compressed)
+[2026-02-05 14:04:33] Requesting 567 apps, 0 packages (full data, 1024 prev attempts, expected 2386 KB)
+[2026-02-05 14:04:34] UpdatesJob: finished OK, apps updated 736 (4641 KB), packages updated 0 (0 KB)
+[2026-02-05 14:04:34] UpdatesJob: apps still needs updates, run again
+[2026-02-05 14:04:34] Requesting 68 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-02-05 14:04:34] Requested 68 app access tokens, 0 received, 68 denied
+[2026-02-05 14:04:34] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-02-05 14:04:37] ThreadedWriteToDisk: writing appinfo cache to: C:\hlds/appcache/appinfo.vdf
+[2026-02-05 14:04:37] App cache write succeeded C:\hlds/appcache/appinfo.vdf (737 apps, 2272 KB) in 17 ms
+
+
+[2026-02-05 14:04:42] Client version: 1769026246
+[2026-02-05 14:04:42] ThreadedReadFromDisk: loading appinfo cache from: C:\hlds/appcache/appinfo.vdf
+[2026-02-05 14:04:42] ThreadedReadFromDisk: header version: 0x7564429
+[2026-02-05 14:04:42] ThreadedReadFromDisk: apps updated: 737
+[2026-02-05 14:04:42] CAppInfoCacheReadFromDiskThread took 26 milliseconds to initialize
+[2026-02-05 14:04:52] RequestAppInfoUpdate: AppIDs 7
+[2026-02-05 14:04:52] Change number 33672370->33672378, apps: 0/5, packages: 0/0
+[2026-02-05 14:04:52] Requesting 69 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-02-05 14:04:52] Requested 68 app access tokens, 0 received, 68 denied
+[2026-02-05 14:04:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-02-05 14:05:04] RequestAppInfoUpdate: AppIDs 70,10,90
+[2026-02-05 14:05:04] Requesting 3 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-02-05 14:05:05] Downloaded 2 apps via HTTP, 26 KB (6 KB compressed)
+[2026-02-05 14:05:05] UpdatesJob: finished OK, apps updated 2 (26 KB), packages updated 0 (0 KB)
+[2026-02-05 14:05:05] Requesting 6 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-02-05 14:05:05] Downloaded 6 apps via HTTP, 57 KB (14 KB compressed)
+[2026-02-05 14:05:05] UpdatesJob: finished OK, apps updated 6 (57 KB), packages updated 0 (0 KB)
+[2026-02-05 14:05:10] ThreadedWriteToDisk: writing appinfo cache to: C:\hlds/appcache/appinfo.vdf
+[2026-02-05 14:05:10] App cache write succeeded C:\hlds/appcache/appinfo.vdf (745 apps, 2311 KB) in 33 ms
+[2026-02-05 14:19:03] Packages changed: force all
+[2026-02-05 14:19:03] Change number 33672378->33672639, apps: 0/277, packages: 0/0
+[2026-02-05 14:19:03] Requesting 0 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-02-05 14:19:03] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-02-05 14:35:07] Packages changed: force all
+[2026-02-05 14:35:07] Change number 33672639->33672893, apps: 0/199, packages: 0/0
+[2026-02-05 14:35:07] Requesting 0 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-02-05 14:35:07] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-02-05 14:51:12] Packages changed: force all
+[2026-02-05 14:51:12] Apps changed: 714010=33673091,108600=33672933,
+[2026-02-05 14:51:12] Change number 33672893->33673166, apps: 2/183, packages: 0/0
+[2026-02-05 14:51:12] Requesting 2 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-02-05 14:51:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
